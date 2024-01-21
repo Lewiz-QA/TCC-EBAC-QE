@@ -1,0 +1,35 @@
+[
+  {
+    "nome": "Abominable Hoodie",
+    "tamanho": "L",
+    "cor": "Red",
+    "quantidade": "2",
+    "preco": "69,00",
+    "add_to_cart": 2559,
+    "product_id": 2559,
+    "variation_id": 2570,
+    "url_product": "abominable-hoodie"
+  },
+  {
+    "nome": "Ariel Roll Sleeve Sweatshirt",
+    "tamanho": "XL",
+    "cor": "Green",
+    "quantidade": "1",
+    "preco": "39,00",
+    "add_to_cart": 3964,
+    "product_id": 3964,
+    "variation_id": 3974,
+    "url_product": "ariel-roll-sleeve-sweatshirt"
+  },
+  {
+    "nome": "Ariel Roll Sleeve Sweatshirt",
+    "tamanho": "S",
+    "cor": "Red",
+    "quantidade": "1",
+    "preco": "39,00",
+    "url_product": "ariel-roll-sleeve-sweatshirt"
+  },
+  {
+    "nome": "Argus All-Weather Tank"
+  }
+]

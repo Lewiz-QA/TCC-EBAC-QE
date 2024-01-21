@@ -1,0 +1,32 @@
+{
+  "name": "atividade_34_ebac",
+  "version": "1.0.0",
+  "description": "Projeto Final EBAC - Automatização UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "cy:open": "npx cypress open",
+    "cy:run": "npx cypress run",
+    "test:allure": "npx cypress run --env allure=true",
+    "allure:open": "npx allure serve",
+    "cy:report": "cypress run --record --key 423edb47-186c-4478-9cfd-2d8fae0921e9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lewiz-QA/TCC-EBAC-QE"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lewiz-QA/TCC-EBAC-QE/issues"
+  },
+  "homepage": "https://github.com/Lewiz-QA/TCC-EBAC-QE#readme",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  },
+  "dependencies": {
+    "@shelex/cypress-allure-plugin": "^2.40.1",
+    "allure-commandline": "^2.22.0",
+    "faker": "^5.5.3"
+  }
+}
