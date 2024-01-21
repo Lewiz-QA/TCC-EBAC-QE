@@ -1,7 +1,3 @@
-/*import { accountPage } from './account.page'
-import LoginPage from './login.page'
-
-export { accountPage, LoginPage }*/
 /// <reference types="cypress" />
 
 import { accountPage } from './account.page.js'
