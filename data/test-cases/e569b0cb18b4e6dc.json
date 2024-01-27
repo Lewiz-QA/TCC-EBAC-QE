@@ -1,12 +1,12 @@
 {
-  "uid" : "100227f211798b89",
-  "name" : "CT4 - Deve listar Produtos de uma Categoria em ordem alfabética",
-  "fullName" : "Funcionalidade: US004 - Catálogo de Produtos.CT4 - Deve listar Produtos de uma Categoria em ordem alfabética",
-  "historyId" : "98a59e8e13b8be60c5a0afa450b179ba",
+  "uid" : "e569b0cb18b4e6dc",
+  "name" : "CT2 - Deve abrir Produto da lista",
+  "fullName" : "Funcionalidade: US004 - Catálogo de Produtos.CT2 - Deve abrir Produto da lista",
+  "historyId" : "419528bf1fd84e3a747c06e76044affb",
   "time" : {
-    "start" : 1706328474062,
-    "stop" : 1706328477481,
-    "duration" : 3419
+    "start" : 1706328853871,
+    "stop" : 1706328858398,
+    "duration" : 4527
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -18,9 +18,9 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "7de9451f23c8a202",
+      "uid" : "36c1a7a5e79c403a",
       "name" : "Execution video",
-      "source" : "7de9451f23c8a202.mp4",
+      "source" : "36c1a7a5e79c403a.mp4",
       "type" : "video/mp4",
       "size" : 0
     } ],
@@ -48,7 +48,7 @@
     "value" : "Funcionalidade: US004 - Catálogo de Produtos"
   }, {
     "name" : "testMethod",
-    "value" : "CT4 - Deve listar Produtos de uma Categoria em ordem alfabética"
+    "value" : "CT2 - Deve abrir Produto da lista"
   }, {
     "name" : "package",
     "value" : "Funcionalidade: US004 - Catálogo de Produtos"
@@ -69,6 +69,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "100227f211798b89.json",
+  "source" : "e569b0cb18b4e6dc.json",
   "parameterValues" : [ "iphone-14.0" ]
 }

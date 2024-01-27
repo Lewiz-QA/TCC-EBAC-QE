@@ -3,53 +3,53 @@
   "children" : [ {
     "name" : "0-0",
     "children" : [ {
-      "name" : "CT1 - Deve realizar a busca pelo Produto Stellar Solar Jacket",
-      "uid" : "92805e565cd57d5f",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1706328461725,
-        "stop" : 1706328465453,
-        "duration" : 3728
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "iphone-14.0" ]
-    }, {
       "name" : "CT3 - Deve filtrar por Categoria",
-      "uid" : "78819e04c76f14bf",
+      "uid" : "ccd1624b691c1f72",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1706328469817,
-        "stop" : 1706328474060,
-        "duration" : 4243
+        "start" : 1706328858401,
+        "stop" : 1706328862034,
+        "duration" : 3633
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "iphone-14.0" ]
     }, {
       "name" : "CT2 - Deve abrir Produto da lista",
-      "uid" : "d29e649726e742ff",
+      "uid" : "e569b0cb18b4e6dc",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1706328465455,
-        "stop" : 1706328469816,
-        "duration" : 4361
+        "start" : 1706328853871,
+        "stop" : 1706328858398,
+        "duration" : 4527
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "iphone-14.0" ]
     }, {
       "name" : "CT4 - Deve listar Produtos de uma Categoria em ordem alfabética",
-      "uid" : "100227f211798b89",
+      "uid" : "8ddd22c84bb7c446",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1706328474062,
-        "stop" : 1706328477481,
-        "duration" : 3419
+        "start" : 1706328862035,
+        "stop" : 1706328865468,
+        "duration" : 3433
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "iphone-14.0" ]
+    }, {
+      "name" : "CT1 - Deve realizar a busca pelo Produto Stellar Solar Jacket",
+      "uid" : "d829332ff07fd525",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1706328849743,
+        "stop" : 1706328853868,
+        "duration" : 4125
       },
       "flaky" : false,
       "newFailed" : false,
