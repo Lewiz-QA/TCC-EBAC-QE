@@ -1,7 +1,7 @@
 {
   "name": "atividade_34_ebac",
   "version": "1.0.0",
-  "description": "Projeto Final EBAC: Automatização UI Mobile",
+  "description": "Projeto Final EBAC - Automatização UI Mobile",
   "main": "index.js",
   "scripts": {
     "test": "npx wdio run ./config/wdio.conf.js",
