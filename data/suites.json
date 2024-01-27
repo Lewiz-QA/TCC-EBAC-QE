@@ -4,52 +4,52 @@
     "name" : "Funcionalidade: US004 - Catálogo de Produtos",
     "children" : [ {
       "name" : "CT1 - Deve realizar a busca pelo Produto Stellar Solar Jacket",
-      "uid" : "2ab93efa2c2bb0bc",
+      "uid" : "8a00493011059325",
       "parentUid" : "6fa8cbb0f5c5c16c8a6c1cb1112dd962",
       "status" : "passed",
       "time" : {
-        "start" : 1706327650355,
-        "stop" : 1706327656379,
-        "duration" : 6024
+        "start" : 1706328051125,
+        "stop" : 1706328054644,
+        "duration" : 3519
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "iphone-14.0" ]
     }, {
       "name" : "CT2 - Deve abrir Produto da lista",
-      "uid" : "35d92299ed1b6ed6",
+      "uid" : "7c7eb816ce89413a",
       "parentUid" : "6fa8cbb0f5c5c16c8a6c1cb1112dd962",
       "status" : "passed",
       "time" : {
-        "start" : 1706327656383,
-        "stop" : 1706327662541,
-        "duration" : 6158
+        "start" : 1706328054647,
+        "stop" : 1706328058806,
+        "duration" : 4159
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "iphone-14.0" ]
     }, {
       "name" : "CT3 - Deve filtrar por Categoria",
-      "uid" : "b0948ac6ca9ca3f5",
+      "uid" : "fed9c97e36362b9e",
       "parentUid" : "6fa8cbb0f5c5c16c8a6c1cb1112dd962",
       "status" : "passed",
       "time" : {
-        "start" : 1706327662542,
-        "stop" : 1706327666576,
-        "duration" : 4034
+        "start" : 1706328058808,
+        "stop" : 1706328062492,
+        "duration" : 3684
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "iphone-14.0" ]
     }, {
       "name" : "CT4 - Deve listar Produtos de uma Categoria em ordem alfabética",
-      "uid" : "4062cf753504f3e5",
+      "uid" : "1ea938124728ebe",
       "parentUid" : "6fa8cbb0f5c5c16c8a6c1cb1112dd962",
-      "status" : "broken",
+      "status" : "passed",
       "time" : {
-        "start" : 1706327666577,
-        "stop" : 1706327678831,
-        "duration" : 12254
+        "start" : 1706328062494,
+        "stop" : 1706328065726,
+        "duration" : 3232
       },
       "flaky" : false,
       "newFailed" : false,

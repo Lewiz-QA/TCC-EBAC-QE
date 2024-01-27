@@ -1,12 +1,12 @@
 {
-  "uid" : "35d92299ed1b6ed6",
-  "name" : "CT2 - Deve abrir Produto da lista",
-  "fullName" : "Funcionalidade: US004 - Catálogo de Produtos.CT2 - Deve abrir Produto da lista",
-  "historyId" : "419528bf1fd84e3a747c06e76044affb",
+  "uid" : "8a00493011059325",
+  "name" : "CT1 - Deve realizar a busca pelo Produto Stellar Solar Jacket",
+  "fullName" : "Funcionalidade: US004 - Catálogo de Produtos.CT1 - Deve realizar a busca pelo Produto Stellar Solar Jacket",
+  "historyId" : "2730d121852429a3445d7a4c198513e1",
   "time" : {
-    "start" : 1706327656383,
-    "stop" : 1706327662541,
-    "duration" : 6158
+    "start" : 1706328051125,
+    "stop" : 1706328054644,
+    "duration" : 3519
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -18,9 +18,9 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "d948faeaee2b89c",
+      "uid" : "74e2dff3ff5ce2a5",
       "name" : "Execution video",
-      "source" : "d948faeaee2b89c.mp4",
+      "source" : "74e2dff3ff5ce2a5.mp4",
       "type" : "video/mp4",
       "size" : 0
     } ],
@@ -48,7 +48,7 @@
     "value" : "Funcionalidade: US004 - Catálogo de Produtos"
   }, {
     "name" : "testMethod",
-    "value" : "CT2 - Deve abrir Produto da lista"
+    "value" : "CT1 - Deve realizar a busca pelo Produto Stellar Solar Jacket"
   }, {
     "name" : "package",
     "value" : "Funcionalidade: US004 - Catálogo de Produtos"
@@ -69,6 +69,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "35d92299ed1b6ed6.json",
+  "source" : "8a00493011059325.json",
   "parameterValues" : [ "iphone-14.0" ]
 }
