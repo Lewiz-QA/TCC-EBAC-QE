@@ -1,0 +1,82 @@
+{
+  "uid" : "4062cf753504f3e5",
+  "name" : "CT4 - Deve listar Produtos de uma Categoria em ordem alfabética",
+  "fullName" : "Funcionalidade: US004 - Catálogo de Produtos.CT4 - Deve listar Produtos de uma Categoria em ordem alfabética",
+  "historyId" : "98a59e8e13b8be60c5a0afa450b179ba",
+  "time" : {
+    "start" : 1706327666577,
+    "stop" : 1706327678831,
+    "duration" : 12254
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element (\"-ios predicate string:name CONTAINS 'Apollo Running Short' AND index == 1\") still not displayed after 10000ms",
+  "statusTrace" : "Error: element (\"-ios predicate string:name CONTAINS 'Apollo Running Short' AND index == 1\") still not displayed after 10000ms\n                    at /home/runner/work/TCC-EBAC-QE/TCC-EBAC-QE/node_modules/webdriverio/build/commands/browser/waitUntil.js:66:23\n                    at Element.wrapCommandFn (/home/runner/work/TCC-EBAC-QE/TCC-EBAC-QE/node_modules/@wdio/utils/build/shim.js:104:29)\n                    at Element.elementErrorHandlerCallbackFn (/home/runner/work/TCC-EBAC-QE/TCC-EBAC-QE/node_modules/webdriverio/build/middlewares.js:23:32)\n                    at Element.wrapCommandFn (/home/runner/work/TCC-EBAC-QE/TCC-EBAC-QE/node_modules/@wdio/utils/build/shim.js:104:29)\n                    at Element.wrapCommandFn (/home/runner/work/TCC-EBAC-QE/TCC-EBAC-QE/node_modules/@wdio/utils/build/shim.js:104:29)\n                    at Element.elementErrorHandlerCallbackFn (/home/runner/work/TCC-EBAC-QE/TCC-EBAC-QE/node_modules/webdriverio/build/middlewares.js:23:32)\n                    at Element.wrapCommandFn (/home/runner/work/TCC-EBAC-QE/TCC-EBAC-QE/node_modules/@wdio/utils/build/shim.js:104:29)\n                    at ProductsViewScreen.showFirstListProduct (/home/runner/work/TCC-EBAC-QE/TCC-EBAC-QE/test/screens/productsView.screen.js:9:9)\n                    at Context.<anonymous> (/home/runner/work/TCC-EBAC-QE/TCC-EBAC-QE/test/specs/products.spec.js:61:16)\n                    at Context.executeAsync (/home/runner/work/TCC-EBAC-QE/TCC-EBAC-QE/node_modules/@wdio/utils/build/shim.js:285:16)\n                    at Context.testFrameworkFnWrapper (/home/runner/work/TCC-EBAC-QE/TCC-EBAC-QE/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:52:18)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "element (\"-ios predicate string:name CONTAINS 'Apollo Running Short' AND index == 1\") still not displayed after 10000ms",
+    "statusTrace" : "Error: element (\"-ios predicate string:name CONTAINS 'Apollo Running Short' AND index == 1\") still not displayed after 10000ms\n                    at /home/runner/work/TCC-EBAC-QE/TCC-EBAC-QE/node_modules/webdriverio/build/commands/browser/waitUntil.js:66:23\n                    at Element.wrapCommandFn (/home/runner/work/TCC-EBAC-QE/TCC-EBAC-QE/node_modules/@wdio/utils/build/shim.js:104:29)\n                    at Element.elementErrorHandlerCallbackFn (/home/runner/work/TCC-EBAC-QE/TCC-EBAC-QE/node_modules/webdriverio/build/middlewares.js:23:32)\n                    at Element.wrapCommandFn (/home/runner/work/TCC-EBAC-QE/TCC-EBAC-QE/node_modules/@wdio/utils/build/shim.js:104:29)\n                    at Element.wrapCommandFn (/home/runner/work/TCC-EBAC-QE/TCC-EBAC-QE/node_modules/@wdio/utils/build/shim.js:104:29)\n                    at Element.elementErrorHandlerCallbackFn (/home/runner/work/TCC-EBAC-QE/TCC-EBAC-QE/node_modules/webdriverio/build/middlewares.js:23:32)\n                    at Element.wrapCommandFn (/home/runner/work/TCC-EBAC-QE/TCC-EBAC-QE/node_modules/@wdio/utils/build/shim.js:104:29)\n                    at ProductsViewScreen.showFirstListProduct (/home/runner/work/TCC-EBAC-QE/TCC-EBAC-QE/test/screens/productsView.screen.js:9:9)\n                    at Context.<anonymous> (/home/runner/work/TCC-EBAC-QE/TCC-EBAC-QE/test/specs/products.spec.js:61:16)\n                    at Context.executeAsync (/home/runner/work/TCC-EBAC-QE/TCC-EBAC-QE/node_modules/@wdio/utils/build/shim.js:285:16)\n                    at Context.testFrameworkFnWrapper (/home/runner/work/TCC-EBAC-QE/TCC-EBAC-QE/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:52:18)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7c1420c067146cda",
+      "name" : "Execution video",
+      "source" : "7c1420c067146cda.mp4",
+      "type" : "video/mp4",
+      "size" : 0
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Funcionalidade: US004 - Catálogo de Produtos"
+  }, {
+    "name" : "testClass",
+    "value" : "Funcionalidade: US004 - Catálogo de Produtos"
+  }, {
+    "name" : "testMethod",
+    "value" : "CT4 - Deve listar Produtos de uma Categoria em ordem alfabética"
+  }, {
+    "name" : "package",
+    "value" : "Funcionalidade: US004 - Catálogo de Produtos"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "iphone-14.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "4062cf753504f3e5.json",
+  "parameterValues" : [ "iphone-14.0" ]
+}

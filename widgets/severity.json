@@ -1,0 +1,41 @@
+[ {
+  "uid" : "35d92299ed1b6ed6",
+  "name" : "CT2 - Deve abrir Produto da lista",
+  "time" : {
+    "start" : 1706327656383,
+    "stop" : 1706327662541,
+    "duration" : 6158
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4062cf753504f3e5",
+  "name" : "CT4 - Deve listar Produtos de uma Categoria em ordem alfabética",
+  "time" : {
+    "start" : 1706327666577,
+    "stop" : 1706327678831,
+    "duration" : 12254
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2ab93efa2c2bb0bc",
+  "name" : "CT1 - Deve realizar a busca pelo Produto Stellar Solar Jacket",
+  "time" : {
+    "start" : 1706327650355,
+    "stop" : 1706327656379,
+    "duration" : 6024
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b0948ac6ca9ca3f5",
+  "name" : "CT3 - Deve filtrar por Categoria",
+  "time" : {
+    "start" : 1706327662542,
+    "stop" : 1706327666576,
+    "duration" : 4034
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

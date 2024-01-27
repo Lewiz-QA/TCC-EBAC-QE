@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "element (\"-ios predicate string:name CONTAINS 'Apollo Running Short' AND index == 1\") still not displayed after 10000ms",
+      "children" : [ {
+        "name" : "CT4 - Deve listar Produtos de uma Categoria em ordem alfabética",
+        "uid" : "4062cf753504f3e5",
+        "parentUid" : "7c6e5362c6e83f47e434334be5bb0055",
+        "status" : "broken",
+        "time" : {
+          "start" : 1706327666577,
+          "stop" : 1706327678831,
+          "duration" : 12254
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "iphone-14.0" ]
+      } ],
+      "uid" : "7c6e5362c6e83f47e434334be5bb0055"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}
