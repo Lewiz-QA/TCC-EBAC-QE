@@ -1,12 +1,12 @@
 {
-  "uid" : "7c7eb816ce89413a",
+  "uid" : "d29e649726e742ff",
   "name" : "CT2 - Deve abrir Produto da lista",
   "fullName" : "Funcionalidade: US004 - Catálogo de Produtos.CT2 - Deve abrir Produto da lista",
   "historyId" : "419528bf1fd84e3a747c06e76044affb",
   "time" : {
-    "start" : 1706328054647,
-    "stop" : 1706328058806,
-    "duration" : 4159
+    "start" : 1706328465455,
+    "stop" : 1706328469816,
+    "duration" : 4361
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -18,9 +18,9 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "38292461cbba56de",
+      "uid" : "7658a3909d47e2d1",
       "name" : "Execution video",
-      "source" : "38292461cbba56de.mp4",
+      "source" : "7658a3909d47e2d1.mp4",
       "type" : "video/mp4",
       "size" : 0
     } ],
@@ -69,6 +69,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "7c7eb816ce89413a.json",
+  "source" : "d29e649726e742ff.json",
   "parameterValues" : [ "iphone-14.0" ]
 }

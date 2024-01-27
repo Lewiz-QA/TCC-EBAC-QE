@@ -1,12 +1,12 @@
 {
-  "uid" : "fed9c97e36362b9e",
+  "uid" : "78819e04c76f14bf",
   "name" : "CT3 - Deve filtrar por Categoria",
   "fullName" : "Funcionalidade: US004 - Catálogo de Produtos.CT3 - Deve filtrar por Categoria",
   "historyId" : "d3cc978bf9a5de59d32aec5f66be2e82",
   "time" : {
-    "start" : 1706328058808,
-    "stop" : 1706328062492,
-    "duration" : 3684
+    "start" : 1706328469817,
+    "stop" : 1706328474060,
+    "duration" : 4243
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -18,9 +18,9 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "df53c53dd8796c8d",
+      "uid" : "91614562e372e618",
       "name" : "Execution video",
-      "source" : "df53c53dd8796c8d.mp4",
+      "source" : "91614562e372e618.mp4",
       "type" : "video/mp4",
       "size" : 0
     } ],
@@ -69,6 +69,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "fed9c97e36362b9e.json",
+  "source" : "78819e04c76f14bf.json",
   "parameterValues" : [ "iphone-14.0" ]
 }
