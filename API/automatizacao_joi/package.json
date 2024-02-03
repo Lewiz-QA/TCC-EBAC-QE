@@ -1,0 +1,39 @@
+{
+  "name": "joi-contract-testing-modulo-34-ebac",
+  "version": "1.0.0",
+  "description": "Projeto Final Ebac: Testes de Contrato com Joi",
+  "scripts": {
+    "test": "NODE_ENV=test mocha --opts test/schemas/mocha.opts test/schemas/**/*.js"
+  },
+  "author": "luiz",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "faker": "^5.5.3"
+  },
+  "devDependencies": {
+    "joi": "^14.3.1",
+    "joi-assert": "0.0.3",
+    "mocha": "^6.2.3",
+    "mochawesome": "^3.1.2",
+    "supertest": "^4.0.2"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lewiz-QA/TCC-EBAC-QE.git"
+  },
+  "keywords": [
+    "joi"
+  ],
+  "bugs": {
+    "url": "https://github.com/Lewiz-QA/TCC-EBAC-QE/issues"
+  },
+  "homepage": "https://github.com/Lewiz-QA/TCC-EBAC-QE#readme"
+}
