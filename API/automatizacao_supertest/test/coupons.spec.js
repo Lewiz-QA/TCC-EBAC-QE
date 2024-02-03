@@ -13,7 +13,7 @@ describe('Funcionalidade: US003 - API de Cupons', () => {
     Quero criar um serviço de cupom
     Para poder listar e cadastrar os cupons*/
 
-    it('Deve listar Cupons com sucesso', async () => {
+    it('CT1 - Deve listar Cupons com sucesso', async () => {
         await req(API_URL)
             .get('/coupons')
             .set('Accept', 'application/json')
@@ -24,7 +24,7 @@ describe('Funcionalidade: US003 - API de Cupons', () => {
             })
     });
 
-    it('Deve cadastrar Cupom com sucesso', async () => {
+    it('CT2 - Deve cadastrar Cupom com sucesso', async () => {
         await req(API_URL)
             .post('/coupons')
             .set('Accept', 'application/json')
@@ -44,7 +44,7 @@ describe('Funcionalidade: US003 - API de Cupons', () => {
             })
     });
 
-    it('(HealthCheck) Deve impedir listagem sem Autenticação', async () => {
+    it('(HealthCheck) CT3 - Deve impedir listagem sem Autenticação', async () => {
         await req(API_URL)
             .get('/coupons')
             .set('Accept', 'application/json')
@@ -56,7 +56,7 @@ describe('Funcionalidade: US003 - API de Cupons', () => {
             })
     });
 
-    it('(HealthCheck) Deve impedir cadastro sem Autorização', async () => {
+    it('(HealthCheck) CT4 - Deve impedir cadastro sem Autorização', async () => {
         await req(API_URL)
             .post('/coupons')
             .set('Accept', 'application/json')
