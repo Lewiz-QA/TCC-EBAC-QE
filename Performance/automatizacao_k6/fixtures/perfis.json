@@ -1,0 +1,30 @@
+[
+    {
+        "user": "admin_ebac",
+        "pass": "@admin!&b@c!2022"
+    },
+    {
+        "user": "gerente",
+        "pass": "GD*peToHNJ1#c$sgk08EaYJQ"
+    },
+    {
+        "user": "user1_ebac",
+        "pass": "psw!ebac@test"
+    },
+    {
+        "user": "user2_ebac",
+        "pass": "psw!ebac@test"
+    },
+    {
+        "user": "user3_ebac",
+        "pass": "psw!ebac@test"
+    },
+    {
+        "user": "user4_ebac",
+        "pass": "psw!ebac@test"
+    },
+    {
+        "user": "user5_ebac",
+        "pass": "psw!ebac@test"
+    }
+]
