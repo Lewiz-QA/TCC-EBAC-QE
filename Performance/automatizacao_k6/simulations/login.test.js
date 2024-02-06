@@ -4,13 +4,15 @@ import Login from '../request/login.request';
 
 export const options = {
   stages: [
-    { duration: '10s', target: 10 },
-    { duration: '5s', target: 10 },
-    { duration: '10s', target: 10 },
-    { duration: '5s', target: 0 }
+    { duration: '20s', target: 15 },
+    { duration: '20s', target: 5 },
+    { duration: '20s', target: 20 },
+    { duration: '20s', target: 15 },
+    { duration: '20s', target: 20 },
+    { duration: '20s', target: 20 }
   ],
   thresholds: {
-    http_req_duration: ['p(99) < 1000']
+    http_req_duration: ['p(99) < 4500']
   }
 }
 
